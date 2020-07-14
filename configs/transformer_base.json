@@ -1,0 +1,7 @@
+{
+  "num_encoder_layers": 6,
+  "num_decoder_layers": 6,
+  "hidden_size": 512,
+  "filter_size": 2048,
+  "num_heads": 8
+}
